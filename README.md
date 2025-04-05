@@ -1,4 +1,4 @@
-# Patient Scheduling API
+# Scalable Patient API
 
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-blue)](https://expressjs.com/)
