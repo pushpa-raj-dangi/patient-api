@@ -17,12 +17,15 @@ A scalable patient scheduling API optimized for high traffic, featuring Redis ca
 
 ## Installation
 
-```bash
 ## Clone repository
+```bash
 https://github.com/pushpa-raj-dangi/patient-api.git
-
+```
 ## Install dependencies
+```bash
 npm install
-
-# Run App
+```
+# Run App Using docker
+```bash
 docker-compose up -d
+```
